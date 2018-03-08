@@ -1,6 +1,6 @@
 ---
 applications:
-- name: pcfdpp-student-7
+- name: pcfapp-student-7
   memory: 1G
   host: pcfapp-student-7
   domain: apps.pcflab.jp
