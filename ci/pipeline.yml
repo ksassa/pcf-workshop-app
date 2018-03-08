@@ -72,3 +72,4 @@ jobs:
       manifest: pcfapp/manifest.yml
       current_app_name: pcfapp-student-7
       
+
